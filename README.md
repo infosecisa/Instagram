@@ -1,5 +1,3 @@
 # Instagram
 Instagram login interface
-<img src="https://github.com/isabellyavelar/Instagram/blob/71977c8da6d4fb524466206da5482705480106d0/prints/netflix1.png">
-
-<img src="https://github.com/isabellyavelar/Instagram/blob/71977c8da6d4fb524466206da5482705480106d0/prints/netflix2.png">
+<img src="https://github.com/isabellyavelar/Instagram/blob/dc2fa7c7b764cdfee4260bef5dbce7c0114c9b44/prints2/insta.png">
